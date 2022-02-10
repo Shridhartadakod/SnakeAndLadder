@@ -12,7 +12,7 @@ namespace SnakeAndLadder
         {
             Console.WriteLine("Welcome to snake and ladder game");
             Console.ReadKey();
-
+            qentry.getMi
         }
     }
 }
